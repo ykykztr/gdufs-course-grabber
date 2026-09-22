@@ -7,7 +7,8 @@
 // @homepageURL  https://github.com/ykykztr/gdufs-course-grabber
 // @description  广外强智选课页自动盯盘（接口直连版）。后台拉全量课程，页面不动；支持按类别抢、多时段全抢、轮次自动进入。
 // @author       ykykztr
-// @match        *://*/*
+// @match        *://jwxt.gdufs.edu.cn/*
+// @match        *://*.gdufs.edu.cn/jsxsd/*
 // @grant        none
 // @run-at       document-idle
 // ==/UserScript==
