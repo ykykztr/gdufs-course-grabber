@@ -2,8 +2,8 @@
 // @name         广外抢课助手（接口版）
 // @namespace    local.gdufs-grabber-api
 // @version      7.8.0
-// @updateURL    https://raw.githubusercontent.com/ykykztr/gdufs-course-grabber/main/gdufs-grabber.user.js
-// @downloadURL  https://raw.githubusercontent.com/ykykztr/gdufs-course-grabber/main/gdufs-grabber.user.js
+// @updateURL    https://github.com/ykykztr/gdufs-course-grabber/releases/latest/download/gdufs-grabber.user.js
+// @downloadURL  https://github.com/ykykztr/gdufs-course-grabber/releases/latest/download/gdufs-grabber.user.js
 // @homepageURL  https://github.com/ykykztr/gdufs-course-grabber
 // @description  广外强智选课页自动盯盘（接口直连版）。后台拉全量课程，页面不动；支持按类别抢、多时段全抢、轮次自动进入。
 // @author       ykykztr
